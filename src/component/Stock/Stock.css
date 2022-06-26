@@ -5,7 +5,11 @@
 }
 
 .cart-container {
-    background-color: tomato;
+    background-color: skyblue;
+    border-radius: 5px;
+    position: sticky;
+    top: 0;
+    padding: 30px 30px;
     /* text-align: center; */
 }
 
@@ -14,7 +18,7 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
     border-radius: 10px;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 @media screen and (max-width:1100px) {

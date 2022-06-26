@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+// import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Stock.css'
 
@@ -6,7 +7,7 @@ import './Stock.css'
 const Stock = () => {
     const [products, setProducts] = useState([])
     useEffect(() => {
-        fetch('https://by-cycle.free.beeceptor.com')
+        fetch('https://duronto.free.beeceptor.com')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, [])
@@ -28,6 +29,7 @@ const Stock = () => {
 
                 <div className="cart-container">
                     <h3>Order List</h3>
+                    {/* <Cart cart={}></Cart> */}
                 </div>
             </div>
 

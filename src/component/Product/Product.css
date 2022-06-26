@@ -2,13 +2,42 @@
     width: 260px;
     height: 260px;
 
-    border-radius: 5px;
+    /* border-radius: 5px; */
 
 }
 
 .product {
     width: 260px;
-
     border: solid black;
     border-radius: 5px;
+    /* position: relative; */
+}
+
+#name {
+    margin-right: 120px;
+}
+
+#id {
+    margin-right: 185px;
+}
+
+#price {
+    margin-right: 145px;
+}
+
+.btn-cart {
+    margin-right: 112px;
+    margin-bottom: 10px;
+    border: 1px solid skyblue;
+    border-radius: 3px;
+    background-color: skyblue;
+}
+
+.btn-text {
+    margin: 2px 0;
+}
+
+.btn-cart:hover {
+    background-color: aquamarine;
+
 }
