@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Duronto-vx251",
+        "price": 200,
+        "img": "https://www.bicyclebd.com/images/products/duranta%20gravity%2026.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Duronto-wa150",
+        "price": 250,
+        "img": "https://www.bicyclebd.com/images/products/Duranta-Allan-Everest-26.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Duronto-xy100",
+        "price": 300,
+        "img": "https://cyclepriceinbd.com/wp-content/uploads/2021/02/durantas.jpeg?v=1613216384"
+    },
+    {
+        "id": 4,
+        "name": "Duronto-ax50",
+        "price": 350,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZon-_TeRpM17MdgXymfShiqJHlNlI5ZcxqA&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Duronto-qu78",
+        "price": 310,
+        "img": "https://images.othoba.com/images/thumbs/0379310_duranta-steel-24-speed-venom-r275-blue.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Duronto-zy45",
+        "price": 420,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKJWein7LnVQ1YCyFWoyDXdT7ly_v3QIk7w&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "name": "Duronto-we78",
+        "price": 470,
+        "img": "https://s.alicdn.com/@sc04/kf/Hda75c92c56b842809aaab2f87fb1133aZ.jpg_300x300.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Duronto-aq98",
+        "price": 450,
+        "img": "https://durantabikes.com/media/bikes/847152.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Duronto-zs78",
+        "price": 500,
+        "img": "https://www.bicyclebd.com/images/products/hero-ranger-max-hrm.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Duronto-sas99",
+        "price": 420,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9Ch8iDlYCAYr2YJeAWH6QKxOAFdKq7Kz8w&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "name": "Duronto-qu150",
+        "price": 480,
+        "img": "https://www.bicyclebd.com/images/products/Duranta%20CB%20City%20Bike%20Black.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Duronto-ty150",
+        "price": 500,
+        "img": "https://static-01.daraz.com.bd/p/0f959670fa7c6e910adeff01a888fca4.jpg"
+    }
+]

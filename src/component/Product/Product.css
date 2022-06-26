@@ -1,0 +1,14 @@
+.product img {
+    width: 260px;
+    height: 260px;
+
+    border-radius: 5px;
+
+}
+
+.product {
+    width: 260px;
+
+    border: solid black;
+    border-radius: 5px;
+}
