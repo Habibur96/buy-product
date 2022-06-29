@@ -31,6 +31,15 @@
     margin-left: 40px;
 }
 
+.question {
+    text-align: justify;
+    margin-left: 45px;
+
+}
+
+#question2 {
+    margin-right: 500px;
+}
 
 
 @media screen and (max-width:1100px) {

@@ -23,9 +23,6 @@ const Product = ({ product, handleAddToCart }) => {
                     <p className='btn-text'>Add to Cart <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon></p>
 
                 </button>
-
-
-
             </div>
         );
     }
