@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Duronto",
+        "price": 200,
+        "img": "https://www.bdstall.com/asset/product-image/giant_106837.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Duronto",
+        "price": 250,
+        "img": "https://rukminim1.flixcart.com/image/612/612/ku5ufm80/cycle/5/2/u/chaze-by-milind-soman-czbc2602-26-lifelong-single-speed-original-imag7c3hgkhtayvs.jpeg?q=70"
+    },
+    {
+        "id": 3,
+        "name": "Duronto",
+        "price": 300,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/81yymX4oQgL._AC._SR360,460.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Duronto",
+        "price": 350,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZon-_TeRpM17MdgXymfShiqJHlNlI5ZcxqA&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Duronto",
+        "price": 310,
+        "img": "https://images.othoba.com/images/thumbs/0379310_duranta-steel-24-speed-venom-r275-blue.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Duronto",
+        "price": 420,
+        "img": "https://d2f9uwgpmber13.cloudfront.net/public/uploads/mobile/17f4bd65a56bc18c68a26aa1e6afccb1"
+    },
+    {
+        "id": 7,
+        "name": "Duronto",
+        "price": 470,
+        "img": "https://s.alicdn.com/@sc04/kf/Hda75c92c56b842809aaab2f87fb1133aZ.jpg_300x300.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Duronto",
+        "price": 450,
+        "img": "https://durantabikes.com/media/bikes/847152.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Duronto",
+        "price": 500,
+        "img": "https://rukminim1.flixcart.com/image/416/416/cycle/d/a/5/29-huge-18-5-hdt-original-imaezhshhj8nywn2.jpeg?q=70"
+    },
+    {
+        "id": 10,
+        "name": "Duronto",
+        "price": 420,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9Ch8iDlYCAYr2YJeAWH6QKxOAFdKq7Kz8w&usqp=CAU"
+    },
+    {
+        "id": 11,
+        "name": "Duronto",
+        "price": 480,
+        "img": "https://rukminim1.flixcart.com/image/612/612/kdyus280/cycle/7/c/z/storm-2-0-17-hercules-single-speed-original-imafurfyppqu2yzr.jpeg?q=70"
+    },
+    {
+        "id": 12,
+        "name": "Duronto",
+        "price": 500,
+        "img": "https://d2f9uwgpmber13.cloudfront.net/public/uploads/mobile/8092ebaee770bd310a5bc0810daa69dc"
+    }
+]
